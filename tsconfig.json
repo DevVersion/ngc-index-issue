@@ -25,7 +25,7 @@
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
-    "flatModuleOutFile": "index-flat.js",
+    "flatModuleOutFile": "index.js",
     "flatModuleId": "@angular/my-exports"
   }
 }
